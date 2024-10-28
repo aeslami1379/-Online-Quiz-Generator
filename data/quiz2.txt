@@ -1,0 +1,60 @@
+QAlong with Oxygen, which element is primarily responsible for the sky appearing blue?
+CNitrogen
+IHelium
+ICarbon
+IHydrogen
+End
+QWhat is the elemental symbol for mercury?
+CHg
+IMe
+IMc
+IHy
+End
+QWhat mineral has the lowest number on the Mohs scale?
+CTalc
+IQuartz
+IDiamond
+IGypsum
+End
+QWhat is the scientific name of the red fox?
+CVulpes Vulpes
+IVulpes Redus
+IRed Fox
+IVulpes Vulpie
+End
+QWhat is the atomic number of the element Strontium?
+C38
+I73
+I47
+I11
+End
+QWhich of these is a stop codon in DNA?
+CTAA
+IACT
+IACA
+IGTA
+End
+QHow much radiation does a banana emit?
+C0.1 Microsievert
+I0.3 Microsievert
+I0.5 Microsievert
+I0.7 Microsievert
+End
+QWhat is the unit of electrical inductance?
+CHenry
+IWeber
+ICoulomb
+IMho
+End
+QOn which mission did the Space Shuttle Columbia break up upon re-entry?
+CSTS-107
+ISTS-51-L
+ISTS-61-C
+ISTS-109
+End
+QApproximately how long is a year on Uranus?
+C84 Earth years
+I47 Earth years
+I62 Earth years
+I109 Earth years
+End

@@ -1,0 +1,60 @@
+QWhat is considered the rarist form of color blindness?
+CBlue
+IRed
+IGreen
+IPurple
+End
+QThe humerus, paired radius, and ulna come together to form what joint?
+CElbow
+IKnee
+ISholder
+IAnkle
+End
+QAll of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:
+CHaplogroup U
+IHaplogroup L
+IHaplogroup T
+IHaplogroup J
+End
+Q71% of the Earth&#039;s surface is made up of
+CWater
+IDeserts
+IContinents
+IForests
+End
+QMuscle fiber is constructed of bundles small long organelles called what?
+CMyofibrils
+IEpimysium
+IMyofiaments
+IMyocardium
+End
+QWhat are human nails made of?
+CKeratin
+IBone
+IChitin
+ICalcium
+End
+QHow long is a light-year?
+C9.461 Trillion Kilometres
+I1 AU
+I105.40 Earth-years
+I501.2 Million Miles
+End
+QOn which mission did the Space Shuttle Columbia break up upon re-entry?
+CSTS-107
+ISTS-51-L
+ISTS-61-C
+ISTS-109
+End
+QIn human biology, a circadium rhythm relates to a period of roughly how many hours?
+C24
+I8
+I16
+I32
+End
+QWhat is the official name of the star located closest to the North Celestial Pole?
+CPolaris
+IEridanus
+IGamma Cephei
+IIota Cephei
+End
